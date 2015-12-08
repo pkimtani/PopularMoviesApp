@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PopularMoviesApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_name">Movie Name</string>
+
+    <!-- Strings for main_content_grid_item layout -->
+    <string name="poster_description">Movie Poster</string>
+    <string name="title_activity_datils_screen">Details Screen</string>
+
+    <string name="title_text">Select a sort order:</string>
+
+    <string-array name="sort_order_list">
+        <item value="popularity">Popularity</item>
+        <item value="highest-rating">Highest Rating</item>
+    </string-array>
+
+</resources>
