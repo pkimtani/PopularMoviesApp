@@ -36,6 +36,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.pkimtani.android.popularmoviesapp.HomeScreen" />
         </activity>
+
     </application>
 
 </manifest>
